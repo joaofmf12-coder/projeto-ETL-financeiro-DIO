@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8f08e77-d20b-4235-83ba-b3250606efe0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject_Ações.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teste Streamlite apresentação site.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testedio2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vendas_SP.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grafico_temp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testesdio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testesdio2.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3COfHrPSUWDhEwBKaMWrF52N9lO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Cadastro Clientes com Interação.executor": "Run",
+    "Python.Histórico Preços.executor": "Run",
+    "Python.IAGen_PipeLine ETL.executor": "Run",
+    "Python.Interação BD x Histórico Preço Ações.executor": "Run",
+    "Python.Iteração mais robusta qdo site demorar.executor": "Run",
+    "Python.Leitor Excel.executor": "Run",
+    "Python.Leitor Panda BD Ações Baixado.executor": "Run",
+    "Python.Projeto Financeiro ETL DIO.executor": "Run",
+    "Python.Relatório Grafico a partir Excel.executor": "Run",
+    "Python.Relatório a partir Excel.executor": "Run",
+    "Python.Retório melhorado Planilha várias abas.executor": "Run",
+    "Python.Teste Excel.executor": "Run",
+    "Python.Teste Streamlite apresentação site.executor": "Run",
+    "Python.Testedio2.executor": "Run",
+    "Python.VideoAula Pandas.executor": "Run",
+    "Python.testesdio.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8f08e77-d20b-4235-83ba-b3250606efe0" name="Changes" comment="" />
+      <created>1776261452562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776261452562</updated>
+      <workItem from="1776261453568" duration="12650000" />
+      <workItem from="1776551469167" duration="1950000" />
+      <workItem from="1776685152983" duration="26941000" />
+      <workItem from="1777302996031" duration="2844000" />
+      <workItem from="1777551816579" duration="27580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$Iteração_mais_robusta_qdo_site_demorar.coverage" NAME="Iteração mais robusta qdo site demorar Coverage Results" MODIFIED="1776262387334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$Relatório_a_partir_Excel.coverage" NAME="Relatório a partir Excel Coverage Results" MODIFIED="1776690452725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$Relatório_Grafico_a_partir_Excel.coverage" NAME="Relatório Grafico a partir Excel Coverage Results" MODIFIED="1776696734033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$testesdio.coverage" NAME="testesdio Coverage Results" MODIFIED="1777304875438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$Testedio2.coverage" NAME="Testedio2 Coverage Results" MODIFIED="1777557541219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$Projeto_Financeiro_ETL_DIO.coverage" NAME="Projeto Financeiro ETL DIO Coverage Results" MODIFIED="1777730773251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$Leitor_Panda_BD_Ações_Baixado.coverage" NAME="Leitor Panda BD Ações Baixado Coverage Results" MODIFIED="1776687924765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$IAGen_PipeLine_ETL.coverage" NAME="IAGen_PipeLine ETL Coverage Results" MODIFIED="1777644445785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$Teste_Excel.coverage" NAME="Teste Excel Coverage Results" MODIFIED="1776685654072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$Cadastro_Clientes_com_Interação.coverage" NAME="Cadastro Clientes com Interação Coverage Results" MODIFIED="1776342487825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$Histórico_Preços.coverage" NAME="Histórico Preços Coverage Results" MODIFIED="1776288420807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonProject1" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$Interação_BD_x_Histórico_Preço_Ações.coverage" NAME="Interação BD x Histórico Preço Ações Coverage Results" MODIFIED="1776288474381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$Leitor_Excel.coverage" NAME="Leitor Excel Coverage Results" MODIFIED="1776689394884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$Teste_Streamlite_apresentação_site.coverage" NAME="Teste Streamlite apresentação site Coverage Results" MODIFIED="1776867574507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$VideoAula_Pandas.coverage" NAME="VideoAula Pandas Coverage Results" MODIFIED="1776800943554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Ações$Retório_melhorado_Planilha_várias_abas.coverage" NAME="Retório melhorado Planilha várias abas Coverage Results" MODIFIED="1776694957643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
